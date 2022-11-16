@@ -11,7 +11,7 @@ public class AssingmentDemo {
 
         x-=y;
 
-        System.out.println("x = "+x);//x = x-y = 3
+        System.out.println("x = "+x);//x = x-y = 3V
 
         x*=y;
 

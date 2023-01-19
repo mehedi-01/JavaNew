@@ -8,7 +8,7 @@ public class DigitSpelling {
         System.out.println("Enter any digit :");
         digit = input.nextInt();
 
-        switch (digit){
+        switch(digit){
 
             case 0:
                 System.out.println("zero");

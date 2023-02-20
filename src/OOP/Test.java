@@ -8,6 +8,7 @@ public class Test {
 
 
         Teacher teacher2 = new Teacher("Hasan","male",1472379);
+        teacher2.disInfo();
 
         Teacher teacher3 = new Teacher();
         teacher3.disInfo();

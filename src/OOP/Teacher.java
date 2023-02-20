@@ -7,6 +7,9 @@ public class Teacher {
         System.out.println("No Value");
     }
     Teacher(String n , String g, int  p){
+         name = n;
+         gender = g;
+         phone = p;
 
 
     }
